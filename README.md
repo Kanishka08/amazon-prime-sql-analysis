@@ -83,5 +83,3 @@ To analyze Amazon Prime Video’s content catalog and derive actionable insights
 
 ---
 
-## 📂 Folder Structure
-
